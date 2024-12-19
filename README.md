@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jugal1406
-- 👀 I’m interested in programming as well as 3D animation 
+- 👀 I’m interested in programming as well as learning about ai
 - 🌱 I’m currently learning basics of programming 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
