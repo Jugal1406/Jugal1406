@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jugal1406
+- 👋 Hi, I’m @Jugal kshatriya
 - 👀 I’m interested in programming as well as learning about ai
 - 🌱 I’m currently learning basics of programming 
 - 💞️ I’m looking to collaborate on 
