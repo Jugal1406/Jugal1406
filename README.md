@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jugal kshatriya
 - 👀 I’m interested in programming as well as learning about AI 🤖
-- 🌱 I’m currently learning Full Stack Development,Doing DSA as well learning JAVA...
+- 🌱 I’m currently learning Full Stack Development,Doing DSA as well learning About AI and Machine Learning
 - I love playing Cricket🏏 and chess♟️
 - I'm also interested in Cosmos 🌍
 - 💌 Love to Collaborate with someone on a project or a research...
